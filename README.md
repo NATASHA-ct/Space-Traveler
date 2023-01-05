@@ -43,6 +43,13 @@ Any html and css code editor like Vscode or Vim.
 
 ## Authors
 
+👤 **Natasha Tatenda**
+
+- GitHub: [@NATASHA-ct]((https://github.com/NATASHA-ct)
+- Twitter: [@NatashaChirombe]
+- LinkedIn: [Natasha Chirombe](linkedin.com/in/natasha-chirombe-1531aa17b)
+
+
 👤 **Jean Bulambo**
 
 - GitHub: [@Jeanbulambo](https://github.com/Jeanbulambo)
@@ -54,12 +61,6 @@ Any html and css code editor like Vscode or Vim.
 - GitHub: [@Aaron](https://github.com/aron-helu)
 
 - LinkedIn: [@Aaron](https://www.linkedin.com/in/aron-abraham-90a4321b0/)
-
-👤 **Natasha Tatenda**
-
-- GitHub: [@NATASHA-ct](https://github.com/NATASHA-ct)
-- [@NatashaChirombe] LinkedIn: Natasha Chirombe 
-
 
 ## 🤝 Contributing
 
